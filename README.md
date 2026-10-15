@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="assets/new_banner_image.png" alt="Banner" width="100%">
+</p>
 ## Hi there 👋
-![Banner](assets/banner_image.png)
+## Hi there 👋
 <!--
 **venexcode/venexcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
